@@ -1,0 +1,12 @@
+[programs.devnet]
+twitterportal = "CHiAY4vVe5TboHwBiAYz6CFzWzAtV1eumNHjD9Ac91GF"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "/Users/lucasl/.config/solana/id.json"
+
+[scripts]
+test = "node tests/twitterportal.js"
